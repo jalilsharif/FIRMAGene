@@ -11,7 +11,3 @@ License: LGPL
 Packaged: 2024-04-19 12:10:14 UTC
 Repository: Github
 Date/Publication: 2024-04-19 12:10:14
-
-library(devtools);
-
-install_github("jalilsharif/FIRMAGene");
